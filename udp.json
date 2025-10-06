@@ -1,9 +1,9 @@
 [
   {
-    "name": "UDP Hysteria",
+    "name": "UDP HysteriaX",
     "flag": "th",
     "host": "th1.hdvpn.win",
-    "port": "65000",
+    "port": "20000",
     "obfs": "agnudp",
     "auth": "default:password"
   },
