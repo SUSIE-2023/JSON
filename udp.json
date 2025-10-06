@@ -1,1 +1,26 @@
-null
+[
+  {
+    "name": "UDP",
+    "flag": "th",
+    "host": "th1.hdvpn.win",
+    "port": "20000-50000",
+    "obfs": "agnudp",
+    "auth": "default:password"
+  },
+  {
+    "name": "Thailand 2",
+    "flag": "th",
+    "host": "45.136.238.39",
+    "port": "20000-50000",
+    "obfs": "kallen",
+    "auth": "kaisel"
+  },
+  {
+    "name": "Thailand 3",
+    "flag": "th",
+    "host": "45.136.238.39",
+    "port": "20000-50000",
+    "obfs": "kallen",
+    "auth": "kaisel"
+  }
+]
