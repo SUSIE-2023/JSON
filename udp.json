@@ -1,8 +1,8 @@
 [
   {
-    "name": "UDP",
+    "name": "TH",
     "flag": "th",
-    "host": "th1.hdvpn.win",
+    "host": "199.21.175.86",
     "port": "1-65000",
     "obfs": "agnudp",
     "auth": "default:password"
