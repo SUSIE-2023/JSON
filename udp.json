@@ -3,7 +3,7 @@
     "name": "UDP",
     "flag": "th",
     "host": "th1.hdvpn.win",
-    "port": "20000-50000",
+    "port": "1-65000",
     "obfs": "agnudp",
     "auth": "default:password"
   },
