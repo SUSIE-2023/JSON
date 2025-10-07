@@ -2,10 +2,10 @@
   {
     "name": "UDP Hysteria",
     "flag": "th",
-    "host": "th1.hdvpn.win",
+    "host": "host",
     "port": "20000-50000",
-    "obfs": "agnudp",
-    "auth": "default:password"
+    "obfs": "obfs",
+    "auth": "u:p"
   },
   {
     "name": "Thailand 2",
